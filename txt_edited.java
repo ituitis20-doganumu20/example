@@ -1,6 +1,6 @@
 /**
  * Bu bir JavaDoc yorum örneğidir.
- * Ayrıca çoklu satırlıdır.
+   Ayrıca çoklu satırlıdır.
  */
 
 // Bu bir tek satırlı yorum örneğidir.
@@ -8,9 +8,9 @@
 public class TestClass {
 
     /*
-     * Bu bir çok satırlı yorum örneğidir.
-     * Satır 1
-     * Satır 2
+      Bu bir çok satırlı yorum örneğidir.
+        Satır 1
+      Satır 2
      */
 
     // Bu bir tek satırlı yorum örneğidir.
@@ -23,8 +23,8 @@ public class TestClass {
     }
 
     /*
-     * Bu bir çok satırlı yorum örneğidir.
-     * Satır 1
+      Bu bir çok satırlı yorum örneğidir.
+      Satır 1
      * Satır 2
      */
 
